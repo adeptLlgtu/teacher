@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8ca8ef80f294015039bae0a8e323c301.js"
+  "/teacher/precache-manifest.d9233fa4d9096b753cf30b565a16940b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "teacher"});
